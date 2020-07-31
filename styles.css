@@ -1,0 +1,10 @@
+
+  body {background-color: lightgreen;}
+    hr {
+      border-style: none;
+      border-top-style: dotted;
+      border-color: grey;
+      border-width: 5px;
+      }
+    h1 { color: red;}
+h3 {color: darkgreen;}
